@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+--------------------------------------LEVANTAR EL PROYECTO------------------------------
+Este proyecto tiene separado el back-end del front-end;
+al descargarlo, lo primero que hay que hacer es correr npm i en ambas carpetas; back y front.
+Depues levantar el back con npm run dev y levantar el front con npm start, la pagina principal nos muestra el logo de tipie con la opcion al login, cuando vamos al login tenemos la opcion de ingresar mail y contraseña, donde si esta correcta nos lleva a la seccion de empleados
